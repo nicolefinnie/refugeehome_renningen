@@ -1,11 +1,7 @@
-# We care about Renningen
+## Who are we?
 
 We are residents from Renningen/Malmsheim who simply care about our home and we'd love to digitalize the information about Renningen so it will be more accessible for younger generations. 
 
-## How to build the document?
+## Our disclaimer 
 
-```sh
-  poetry install 
-  poetry run mkdocs build
-  poetry run mkdocs gh-deploy
-```
+This site is not associated with Stadt Renningen, organizations or with any political parties. 

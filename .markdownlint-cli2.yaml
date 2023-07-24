@@ -1,0 +1,22 @@
+# see https://github.com/DavidAnson/markdownlint-cli2#configuration
+# full example: https://github.com/DavidAnson/markdownlint-cli2/blob/main/test/markdownlint-cli2-yaml-example/.markdownlint-cli2.yaml
+# inline linting control (e.g. for suppression): https://github.com/DavidAnson/markdownlint/blob/main/README.md#configuration
+# rule overview: https://github.com/DavidAnson/markdownlint/blob/main/README.md#rules--aliases
+# corresponding vscode extension: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+# also useful: https://marketplace.visualstudio.com/items?itemName=stkb.rewrap
+
+config:
+  # disable the following built-in rules
+  no-inline-html: false
+  # configure the following built-in rules
+  heading-style: { "style": "atx" }
+  ul-style: { "style": "asterisk" }
+  line-length: { "line_length": 120, "tables": false, code_blocks: false }
+  ul-indent: { "indent": 4 }
+  no-duplicate-heading: {"siblings_only": true}
+
+# Fix any fixable errors
+fix: true
+
+# Disable progress on stdout (only valid at root)
+noProgress: true
