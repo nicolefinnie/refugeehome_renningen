@@ -22,7 +22,7 @@ Am 22.05.2023 traf der Gemeinderat Renningen einen Grundsatzbeschluss ([Gemeinde
 * Wenn Sie mehr über diesen Grundsatzbeschluss erfahren möchten, sehen Sie bitte  [Anschlussunterbringung von Menschen mit Fluchterfahrung ](https://sessionnet.renningen.de/bi/getfile.php?id=13613&type=do).
 
 
-* [Unterschiftenliste für Widerspruch zur Beschlussfassung](res/Widerspruch_Beschlussfassung_20881.pdf) zum Bau von AU-Unterkünften auf den Grundstücken Flst.Nr. 2088/1 (Krautgärten Merklinger Strasse Fig 1.). Wenn Sie diesen Widerspruch unterschreiben wollen, laden Sie bitte die Unterschriftenliste.
+* [Unterschriftenliste für Widerspruch zur Beschlussfassung](res/Widerspruch_Beschlussfassung_20881.pdf) zum Bau von AU-Unterkünften auf den Grundstücken Flst.Nr. 2088/1 (Krautgärten Merklinger Strasse Fig 1.). Wenn Sie diesen Widerspruch unterschreiben wollen, laden Sie bitte die Unterschriftenliste.
 
 
 
