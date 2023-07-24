@@ -33,7 +33,7 @@ theme:
       media: "(prefers-color-scheme: light)"
       primary: blue grey
       toggle:
-        icon: material/eye
+        icon: material/eye-outline
         name: Switch to dark mode
     - scheme: slate
       accent: deep orange
@@ -41,7 +41,7 @@ theme:
       primary: blue grey
       toggle:
         icon: material/eye
-        name: Switch to light mode
+        name: Switch to dark mode
 
 markdown_extensions:
   # Python Markdown
