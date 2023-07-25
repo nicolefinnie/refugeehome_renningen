@@ -17,7 +17,7 @@ Ein Standort in den Krautergärten auf der Merklinger Straße befindet sich in e
 
 Das für die Bebauung vorgesehene Grundstück gehört zur Auenlandschaft des Rankbaches. Diese Fläche dient nicht nur als Überflutungsbecken, um Überschwemmungen in Malmsheim zu verhindern, sondern stellt als Teil der Auenlandschaft auch einen wichtigen Bestandteil des Ökosystems des Baches dar. Sie bietet einen Lebensraum für Insekten und andere Tiere.
 
-Die Bebauung von Auenlandschaften führt zur Versiegelung der Fläche, was bedeutet, dass diese ihre wichtigen Funktionen nicht mehr oder nur noch eingeschränkt erfüllen kann. Dies ist besonders in Zeiten des Klimawandels und der Klimakrise unverantwortlich. Derzeit wird auf Landesebene eher die Wiederherstellung von Auenlandschaften gefördert.
+Die Bebauung von Auenlandschaften kann zur Versiegelung der Fläche führen, was potenziell dazu führt, dass diese ihre wichtigen Funktionen möglicherweise nicht mehr oder nur noch eingeschränkt erfüllen kann. In Anbetracht des Klimawandels und der Klimakrise ist dies ein Aspekt, der bedacht werden sollte. Aktuell wird auf Landesebene tendenziell die Wiederherstellung von Auenlandschaften unterstützt.
 
 Für mehr Informationen über Auen, besuchen Sie bitte [Naturschutz und Umwelt](naturschutz.md).
 
