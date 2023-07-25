@@ -11,6 +11,7 @@ site_dir: .site
 nav:
   - Information:
       - Aktuelle Information : index.md
+      - Naturschutz und Umwelt: naturschutz.md
       - Flyer: flyer.md
   - About Us: about.md
 
