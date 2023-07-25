@@ -21,7 +21,6 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.instant
-    - navigation.tabs
     - navigation.top
     - search.highlight
     - search.suggest
@@ -91,4 +90,5 @@ extra_css:
 plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - glightbox
   - search
