@@ -2,12 +2,15 @@
 
 Die folgenden Angaben entsprechen den Vorgaben von § 5 TMG:
 
+```
 Nicole u. Liam Finnie
 Merklinger Str. 29
 71272 Renningen
 
-Kontaktdaten:
-E-Mail-Adresse: nicole.lin@gmail.com
+E-Mail-Adresse:
+nicole.lin@gmail.com
+```
+
 
 Haftung für Inhalte:
 Im Sinne von § 7 Absatz 1 TMG sind wir für die eigenen Inhalte auf dieser Webseite verantwortlich.
