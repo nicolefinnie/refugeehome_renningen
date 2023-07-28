@@ -4,4 +4,5 @@ We are residents from Renningen/Malmsheim who simply care about our home and we'
 
 ## Our disclaimer 
 
-This site is not associated with Stadt Renningen, any organizations or political parties. 
+This site is not associated with Stadt Renningen, any companies, organizations or political parties. 
+Because we're in Germany, credibility of a website is crucial, so, to prove we're real humans, please see [Impressum](impressum.md).
