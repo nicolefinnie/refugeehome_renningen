@@ -4,7 +4,7 @@ Wir sind eine Kanadische/Deutsche Familie in Malmsheim, die einfach unser Zuhaus
 
 <figure markdown>
   ![refugee home](res/refugee_app.png){ width="800" }
-  <figcaption>Abbildung 1. Die Flüchtlings-App, die wir 2015 mit dem IBM Watson Sprachdienst gebaut haben, um Online-Übersetzungen von Deutsch nach Arabisch und umgekehrt durchzuführen, bevor Chat-GPT 2022 auf den Markt kam. </figcaption>
+  <figcaption>Abbildung 1. Die Flüchtlings-App, die wir 2015 mit dem IBM Watson Sprachdienst privat entwicklet haben, um Online-Übersetzungen von Deutsch nach Arabisch und umgekehrt durchzuführen, bevor Chat-GPT 2022 auf den Markt kam. </figcaption>
 </figure>
 
 Wir machen uns Sorgen darüber, welche Art von Welt wir unseren Kindern hinterlassen werden, und möchten mit Hilfe der Technologie einen positiven Einfluss auf unsere Umwelt nehmen.
