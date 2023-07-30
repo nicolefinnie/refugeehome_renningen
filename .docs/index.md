@@ -16,12 +16,12 @@ Oder unterschreiben Sie unsere online petition, besuchen Sie bitte [Petition](pe
 
 ### Standort - Krautgärten auf der Merklinger Straße 
 
-Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in einem Auengebiet, die als Überflutungsbecken dient und bei Kindern und Familien in Malmsheim sehr beliebt ist.(Fig. 1) (Fig. 2). 
+Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in einem Auengebiet, die als Überflutungsbecken dient und bei Kindern und Familien in Malmsheim sehr beliebt ist.(Abbildung 1 u. Abbildung 2). 
 
 
 <figure markdown>
   ![Krautgaerten](res/krautgaerten.jpg){ width="500" }
-  <figcaption>Fig 1. Standort Krautgärten Merklinger Strasse im Auengebiet Malmsheim</figcaption>
+  <figcaption>Abbildung 1. Standort Krautgärten Merklinger Strasse im Auengebiet Malmsheim</figcaption>
 </figure>
 
 
@@ -35,12 +35,12 @@ Für mehr Informationen über Auen, besuchen Sie bitte [Naturschutz und Umwelt](
 
 <figure markdown>
   ![refugee home](res/refugee_home_googlemap.png){ width="1000" }
-  <figcaption>Fig 2. Standort Krautgärten Merklinger Strasse am GoogleMaps. Der Standort befindet sich in einem Auengebiet. </figcaption>
+  <figcaption>Abbildung 2. Standort Krautgärten Merklinger Strasse am GoogleMaps. Der Standort befindet sich in einem Auengebiet. </figcaption>
 </figure>
 
 <figure markdown>
   ![krautgaerten_proposal](res/krautgaerten_proposal.png){ width="1000" }
-  <figcaption>Fig 3. Flächenlayout des Standorts Krautgärten Merklinger Strasse. Quelle A1.</figcaption>
+  <figcaption>Abbildung 3. Machbarkeitsstudie: Flächenlayout des Standorts Krautgärten Merklinger Strasse. Quelle A1.</figcaption>
 </figure>
 
 - a) Platz für ca. 29 Personen je Mustergebäude gemäß Testentwurf, Wohnfläche ca. 357 m² 

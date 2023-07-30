@@ -9,14 +9,13 @@ docs_dir: .docs
 site_dir: .site
 
 nav:
-  - Information:
-      - Aktuelle Information : index.md
-      - Naturschutz und Umwelt: naturschutz.md
-      - Flyer: flyer.md
+  - Aktuelle Information : index.md
+  - Naturschutz und Umwelt: naturschutz.md
+  - Flyer: flyer.md
   - Petition: petition.md
-  - About Us: about.md
   - Impressum: impressum.md
-
+  - About Us: about.md
+  
 theme:
   logo: res/krautgaerten.jpg
   name: material

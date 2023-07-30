@@ -7,7 +7,7 @@ Auen zählen zu den Ökosystemen mit der größten Artenvielfalt auf unserem Pla
 
 <figure markdown>
   ![Krautgaerten](res/Malmsheim_Auen.jpg){ width="500" }
-  <figcaption>Fig 1. Auen in Malmsheim</figcaption>
+  <figcaption>Abbildung 1. Auen in Malmsheim</figcaption>
 </figure>
 
 - [Auen: Artenreichtum entlang der Flüsse](https://www.wwf.de/themen-projekte/fluesse-seen/lebensraeume/auen)
