@@ -1,10 +1,10 @@
 ## Anschlussunterbringung von Flüchtlingen in Renningen/Malmsheim
 
-Am 22.05.2023 traf der Gemeinderat Renningen einen Grundsatzbeschluss ([Gemeinderatssitzung am 22.05.2023](https://sessionnet.renningen.de/bi/si0057.php?__ksinr=412)), dass sie die Flüchtlingscontainer erhöhen und neue Flüchtlingsheime in Renningen und Malmsheim bauen werden. 
+Am 22.05.2023 traf der Gemeinderat Renningen einen Grundsatzbeschluss ([Gemeinderatssitzung am 22.05.2023](https://sessionnet.renningen.de/bi/si0057.php?__ksinr=412)), dass sie die Flüchtlingscontainer erhöhen und neue Flüchtlingsheime in Renningen und Malmsheim bauen werden. Wir möchten darauf hinarbeiten, dass unsere Nachbarschaft umfassend über den vorliegenden Grundsatzbeschluss informiert ist. Sollten Sie Bedenken hegen oder Vorschläge einbringen wollen, wenden Sie sich bitte an Ihre Vertretung im [Gemeinderat](https://sessionnet.renningen.de/bi/kp0041.php). 
 
 ## Petition
 
-Wir möchten darauf hinarbeiten, dass unsere Nachbarschaft umfassend über den vorliegenden Grundsatzbeschluss informiert ist. Sollten Sie Bedenken hegen oder Vorschläge einbringen wollen, wenden Sie sich bitte an Ihre Vertretung im [Gemeinderat](https://sessionnet.renningen.de/bi/kp0041.php). Des Weiteren haben Sie die Möglichkeit, die [Unterschriftenliste A2](res/Widerspruch_Beschlussfassung_20881.pdf) herunterzuladen, zu unterzeichnen und an die folgende Adresse zu übersenden. 
+Des Weiteren haben Sie die Möglichkeit, die [Unterschriftenliste A2](res/Widerspruch_Beschlussfassung_20881.pdf) herunterzuladen, zu unterzeichnen und an die folgende Adresse zu übersenden. 
  
 ```
 Gemeinderat Stadt Renningen
@@ -52,7 +52,7 @@ Für mehr Informationen über Auen, besuchen Sie bitte [Naturschutz und Umwelt](
 
 * A1. Wenn Sie mehr über diesen Grundsatzbeschluss erfahren möchten, sehen Sie bitte  [Anschlussunterbringung von Menschen mit Fluchterfahrung ](https://sessionnet.renningen.de/bi/getfile.php?id=13613&type=do).
 
-
+* A2. Unser Flyer [in PDF](res/flyer.pdf)
 
 
 
