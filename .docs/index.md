@@ -4,7 +4,7 @@ Am 22.05.2023 traf der Gemeinderat Renningen einen Grundsatzbeschluss ([Gemeinde
 
 ### Standort - Krautgärten auf der Merklinger Straße 
 
-Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in einem Auengebiet, der als Überflutungsbecken dient und bei Kindern und Familien in Malmsheim sehr beliebt ist.(Abbildung 1 u. Abbildung 2). 
+Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in einem Auengebiet, der als wichtiger Bestandteil des Ökosystems des Baches dient. Es bietet einen Lebensraum für Insekten und andere Tiere. Des Weiteren wird das Gebiet von der örtlichen Bevölkerung als Naherholungsgebiet stark frequentiert und bei Kindern und Familien in Malmsheim sehr beliebt ist.(Abbildung 1 u. Abbildung 2). 
 
 
 <figure markdown>
@@ -14,11 +14,7 @@ Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in ein
 
 ### Sollen wir in Natur mehr Häuser bauen?
 
-Das zur Bebauung vorgesehene Gelände ist Teil der Auenlandschaft des Rankbaches. Diese Auenlandschaft fungiert nicht nur als Flutbecken, um Überflutungen in Malmsheim abzuwehren, sie repräsentiert zudem einen unerlässlichen Baustein des Rankbach-Ökosystems. Sie bietet zahlreichen Insekten und Tieren einen wertvollen Lebensraum.
-
-Die Bebauung von Auenlandschaften kann zu einer Versiegelung der betroffenen Gebiete führen, was das Potenzial hat, ihre essentiellen ökologischen Funktionen einzuschränken. Im Kontext des voranschreitenden Klimawandels und der damit verbundenen Krise ist dies ein Faktor, den es ernsthaft zu berücksichtigen gilt. Auf Landesebene ist die Tendenz zur Wiederherstellung von Auenlandschaften gegenwärtig vorherrschend.
-
-Für mehr Informationen über Auenlandschaft, besuchen Sie bitte [Naturschutz und Umwelt](naturschutz.md).
+Das zur Bebauung vorgesehene Gelände ist Teil der Auenlandschaft des Rankbaches. Für mehr Informationen über Auenlandschaft, besuchen Sie bitte [Naturschutz und Umwelt](naturschutz.md).
 
 <figure markdown>
   ![refugee home](res/refugee_home_googlemap.png){ width="1000" }
