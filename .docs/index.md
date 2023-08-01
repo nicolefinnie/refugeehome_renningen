@@ -1,4 +1,4 @@
-## Anschlussunterbringung von Flüchtlingen in Renningen/Malmsheim
+## Grundsatzbeschluss - Anschlussunterbringung von Menschen mit Fluchterfahrung
 
 Am 22.05.2023 traf der Gemeinderat Renningen einen Grundsatzbeschluss ([Gemeinderatssitzung am 22.05.2023](https://sessionnet.renningen.de/bi/si0057.php?__ksinr=412)), dass sie die Flüchtlingscontainer erhöhen und neue Flüchtlingsheime in Renningen und Malmsheim bauen werden. Wir möchten darauf hinarbeiten, dass unsere Nachbarschaft umfassend über den vorliegenden Grundsatzbeschluss informiert ist.
 
@@ -30,6 +30,7 @@ Laut Quelle A1 hat der Gemeinderat eine Machbarkeitsstudie (Abbildung 3) durchge
 Wir möchten der Stadt folgende Fragen stellen:
 
 * Müssen wir die Natur zerstören und den Zugang der Bewohner zur Natur einschränken?
+* Wenn wir das Budget haben, um neue Häuser zu bauen, warum können wir dann nicht mit diesem Budget leerstehende Wohnungen und Häuser kaufen, damit unsere neuen Bewohner sofort untergebracht werden können?
 * Ist dies der beste Ort, um unsere neuen Bewohner in die Gesellschaft zu integrieren?
 * Wie können Sie sicherstellen, dass die Bewohner unbeschränkten Zugang zur Natur haben? Auf dem wir unsere Hunde spazieren führen, unsere kleinen Kinder das Radfahren beibringen, zum Wald joggen und wo unsere Senioren aus dem nahegelegenen Seniorenheim die Natur genießen.
 
