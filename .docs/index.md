@@ -31,7 +31,7 @@ Wir möchten der Stadt folgende Fragen stellen:
 
 * Müssen wir die Natur zerstören und den Zugang der Bewohner zur Natur einschränken?
 * Ist dies der beste Ort, um unsere neuen Bewohner in die Gesellschaft zu integrieren?
-* Wie können Sie sicherstellen, dass die Bewohner unbeschränkten Zugang zur Natur haben? Die Bewohner würden den Zugang zu diesem wichtigen Wanderweg verlieren, auf dem wir unsere Hunde spazieren führen, unsere kleinen Kinder das Radfahren beibringen, zum Wald joggen und wo unsere Senioren aus dem nahegelegenen Seniorenheim die Natur genießen.
+* Wie können Sie sicherstellen, dass die Bewohner unbeschränkten Zugang zur Natur haben? Auf dem wir unsere Hunde spazieren führen, unsere kleinen Kinder das Radfahren beibringen, zum Wald joggen und wo unsere Senioren aus dem nahegelegenen Seniorenheim die Natur genießen.
 
 <figure markdown>
   ![krautgaerten_proposal](res/krautgaerten_proposal.png){ width="1000" }
