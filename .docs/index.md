@@ -9,6 +9,7 @@ Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in ein
 
 <figure markdown>
   ![Krautgaerten](res/krautgaerten.jpg){ width="500" }
+  ![flood basin](res/floodbasin.jpg){ width="500" }
   <figcaption>Abbildung 1. Standort Krautgärten Merklinger Strasse im Auengebiet Malmsheim</figcaption>
 </figure>
 
