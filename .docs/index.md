@@ -14,23 +14,17 @@ Ein Standort in den Krautgärten auf der Merklinger Straße befindet sich in ein
 </figure>
 
 ### Sollen wir in Natur mehr Häuser bauen?
+  
+- [Argumentation gegen den Bau](argumentation_bau.md)
 
-Das zur Bebauung vorgesehene Gelände ist Teil der Auenlandschaft des Rankbaches. Für mehr Informationen über Auenlandschaft, besuchen Sie bitte [Naturschutz und Umwelt](naturschutz.md).
+Das zur Bebauung vorgesehene Gelände ist Teil der Auenlandschaft des Rankbaches. Für mehr Informationen über Auenlandschaft, besuchen Sie bitte [Naturschutz und Umwelt](naturschutz.md). 
 
 <figure markdown>
   ![refugee home](res/refugee_home_googlemap.png){ width="1000" }
   <figcaption>Abbildung 2. Standort Krautgärten Merklinger Strasse am GoogleMaps. Der Standort befindet sich in einem Auengebiet. </figcaption>
 </figure>
 
-Laut Quelle A1 hat der Gemeinderat eine Machbarkeitsstudie (Abbildung 3) durchgeführt. Die Stadt würde angeblich nur mit einem Haus beginnen, doch sobald das erste Haus errichtet ist, wurde die Natur bereits zerstört, sodass es der Stadt leichter fällt, ein weiteres zu bauen. Statistisch gesehen wird die Anzahl der Flüchtlinge nicht sinken, sondern steigen (Quelle A2 von BAMF), so dass eine Ausweitung der Anzahl der Häuser unvermeidlich ist. Wir verstehen voll und ganz, dass die Stadt verpflichtet ist, einen gerechten Anteil an Flüchtlingen aufzunehmen, aber ist der Neubau von Häusern die beste Lösung? Und wenn es die beste Lösung ist, ist der gewählte Standort der beste Standort sowohl für bestehende Bewohner als auch für Neuankömmlinge?
-
-Wir möchten der Stadt folgende Fragen stellen:
-
-* Müssen wir die Natur zerstören und den Zugang der Bewohner zur Natur einschränken?
-* Geht dieser Grundsatzbeschluss nicht gegen das von den Grünen geförderte Prinzip der "städtischen Verdichtung, nicht noch weitere Erschließung"?
-* Ist dies der beste Ort, um unsere neuen Bewohner in die Gesellschaft zu integrieren?
-* Wie können Sie sicherstellen, dass die Bewohner unbeschränkten Zugang zur Natur haben? Auf dem wir unsere Hunde spazieren führen, unsere kleinen Kinder das Radfahren beibringen, zum Wald joggen und wo unsere Senioren aus dem nahegelegenen Seniorenheim die Natur genießen.
-* Wenn wir das Budget haben, um neue Häuser zu bauen, warum können wir dann nicht mit diesem Budget leerstehende Wohnungen und Häuser kaufen, damit unsere neuen Bewohner sofort untergebracht werden können?
+Laut Quelle A1 hat der Gemeinderat eine Machbarkeitsstudie (Abbildung 3) durchgeführt. Die Stadt würde angeblich nur mit einem Haus beginnen, doch sobald das erste Haus errichtet ist, wurde die Natur bereits zerstört, sodass es der Stadt leichter fällt, ein weiteres zu bauen. Statistisch gesehen wird die Anzahl der Flüchtlinge nicht sinken, sondern steigen (Quelle A2 von BAMF), so dass eine Ausweitung der Anzahl der Häuser unvermeidlich ist.
 
 <figure markdown>
   ![krautgaerten_proposal](res/krautgaerten_proposal.png){ width="1000" }

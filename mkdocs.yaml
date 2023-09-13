@@ -10,6 +10,7 @@ site_dir: .site
 
 nav:
   - Aktuelle Information : index.md
+  - Argumentation gegen den Bau: argumentation_bau.md
   - Naturschutz und Umwelt: naturschutz.md
   - Flyer: flyer.md
   - Petition: petition.md
